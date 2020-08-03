@@ -2,4 +2,4 @@
 
 If you want to buy this domain, please email datasigns.in@gmail.com
 
-Min price: 5 Lakhs
+Min price: USD 7000 or Rs. 5 Lakhs
