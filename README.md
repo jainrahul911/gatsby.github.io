@@ -10,5 +10,5 @@ NSE | BSE | Stock Market | F&O
 -Python | API | Excel
 
 Twitter Id:  https://twitter.com/datasignsIN
-Facebook Id:  https://facebook.com/datasignsIN
-Instagram Id:  https://instagram.com/datasignsIN
+Facebook Id:  https://facebook.com/datasigns.IN
+Instagram Id:  https://instagram.com/datasigns.IN
