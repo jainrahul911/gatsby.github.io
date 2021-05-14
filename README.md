@@ -1,9 +1,14 @@
-# gatsby.github.io
+COMING SOON
 
-If you want to buy this domain, please email datasigns.in@gmail.com
 
-Min price: USD 7000 or Rs. 5 Lakhs
 
-You will get twitter Id also:  https://twitter.com/datasignsIN
-You will get facebook Id also:  https://facebook.com/datasignsIN
-You will get instagram Id also:  https://instagram.com/datasignsIN
+datasigns.in
+NSE | BSE | Stock Market | F&O
+-Financial Analysis
+-Trading Systems
+-Algo Trading
+-Python | API | Excel
+
+Twitter Id:  https://twitter.com/datasignsIN
+Facebook Id:  https://facebook.com/datasignsIN
+Instagram Id:  https://instagram.com/datasignsIN
