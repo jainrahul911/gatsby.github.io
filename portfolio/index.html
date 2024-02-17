@@ -38,7 +38,7 @@
                     <ul class="nav__list">
                         <li class="nav__item"><a href="#home" class="nav__link active">Home</a></li>
                         <li class="nav__item"><a href="#about" class="nav__link">About</a></li>
-                        <li class="nav__item"><a href="#skills" class="nav__link">Portfolio</a></li>
+                        <li class="nav__item"><a href="#skills" class="nav__link">Our Work</a></li>
                         <li class="nav__item"><a href="#careers" class="nav__link">Careers</a></li>
                         <li class="nav__item"><a href="#login" class="nav__link">Login/Sign Up</a></li>
                      </ul>
@@ -89,12 +89,34 @@
 
             <!--===== Pricing =====-->
             <section class="skills section" id="skills">
-                <h2 class="section-title">Pricing</h2>
+                <h2 class="section-title">Our Work</h2>
 
                 <div class="skills__container bd-grid">          
-                    <div>
-                        <h2 class="skills__subtitle">Pricing</h2>
-                        <p class="skills__text">Please contact us through instagram for costs as per your needs.</p>
+                   <!-- Tab links -->
+<div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'London')">London</button>
+  <button class="tablinks" onclick="openCity(event, 'Paris')">Paris</button>
+  <button class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</button>
+</div>
+
+<!-- Tab content -->
+<div id="London" class="tabcontent">
+  <h3>London</h3>
+  <p>London is the capital city of England.</p>
+</div>
+
+<div id="Paris" class="tabcontent">
+  <h3>Paris</h3>
+  <p>Paris is the capital of France.</p>
+</div>
+
+<div id="Tokyo" class="tabcontent">
+  <h3>Tokyo</h3>
+  <p>Tokyo is the capital of Japan.</p>
+</div>
+
+
+                 
                       <!---  <div class="skills__data">
                             <div class="skills__names">
                                 <i class='fab fa-docker skills__icon'></i>
